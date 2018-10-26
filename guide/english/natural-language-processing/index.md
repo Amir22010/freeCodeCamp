@@ -35,4 +35,6 @@ The field of NLP is huge. If you have read this far and have implemented the abo
 
 * [LSTM networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [Attention](https://distill.pub/2016/augmented-rnns/)
+* [Free NLP resources](https://www.kdnuggets.com/2018/09/free-resources-natural-language-processing.html)
+
 
