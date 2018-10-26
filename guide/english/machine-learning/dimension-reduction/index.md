@@ -18,6 +18,8 @@ Dealing with a lot of dimensions can be painful for machine learning algorithms.
 - Principal Components Analysis [PCA](http://setosa.io/ev/principal-component-analysis/)
 - Kernel PCA
 - Graph-based kernel PCA
+- Factor analysis
+- Independent component analysis ICA
 - t-Distributed Stochastic Neighbor Embedding [t-SNE](https://lvdmaaten.github.io/tsne/)
 - [Auto Encoders](https://medium.com/towards-data-science/reducing-dimensionality-from-dimensionality-reduction-techniques-f658aec24dfe)
 - Generalized discriminant analysis (GDA)
