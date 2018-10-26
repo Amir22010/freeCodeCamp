@@ -53,6 +53,7 @@ The most common Neural Networks used today fall into the [deep learning](https:/
 The second most common form of neural networks is nueroevolution. In this system multiple neural networks are randomly generated as initial guesses. Then multiple generations of combining the accurate most networks and random permutations are used to converge upon a more accurate mapping. 
 
 ### Types of Neural Networks
+- Artificial Neural Network (ANN)
 - Recurrent Neural Network (RNN)
 - Long-short Term Memory (LSTM), a type of RNN
 - Convolutional Neural Network (CNN)
