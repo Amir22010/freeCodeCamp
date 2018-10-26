@@ -29,10 +29,11 @@ data consist of a set of training examples. In supervised learning, each example
 
 #### Basic flowchart/steps for supervised learning
 1. Collect training set.
-2. Divide training set into input object (features) and output object (classes or value)
-3. Decide what you will be applying, regression or classifier
-4. Decide which algorithm will you be applying, SVM, deep net, etc
-5. Run the algorithm on training set and use the model for predictions
+2. Data Preprocessing.
+3. Divide training set into input object (features) and output object (classes or value)
+4. Decide what you will be applying, regression or classifier
+5. Decide which algorithm will you be applying, SVM, deep net, etc
+6. Run the algorithm on training set and use the model for predictions
 
 #### Courses:
 1. <a href='https://www.udacity.com/course/intro-to-machine-learning--ud120?autoenroll=true' target='_blank' rel='nofollow'>Intro to Machine Learning</a>
