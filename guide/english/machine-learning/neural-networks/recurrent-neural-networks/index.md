@@ -2,12 +2,14 @@
 title: Recurrent Neural Networks
 ---
 ## Recurrent Neural Networks
+Recurrent Neural Networks or RNNs are a special type of neural network designed for sequence problems. It process sequences by iterating through the sequence elements and maintaining a state containing information relative to what it has seen so far. It is a type of neural network that has an internal loop.The recurrent connections add state or memory to the network and allow it to learn broader abstractions from the input sequences.
 
-This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/pages/machine-learning/neural-networks/recurrent-neural-networks/index.md' target='_blank' rel='nofollow'>Help our community expand it</a>.
-
-<a href='https://github.com/freecodecamp/guides/blob/master/README.md' target='_blank' rel='nofollow'>This quick style guide will help ensure your pull request gets accepted</a>.
-
-<!-- The article goes here, in GitHub-flavored Markdown. Feel free to add YouTube videos, images, and CodePen/JSBin embeds  -->
+## Use Case
+- image captioning
+- sentiment classiﬁcation
+- machine translation
+- text generation
+- video classiﬁcation
 
 #### More Information:
 <!-- Please add any articles you think might be helpful to read before writing the article -->
